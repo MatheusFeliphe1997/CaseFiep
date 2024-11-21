@@ -1,0 +1,8 @@
+# Ignorar ambiente virtual
+.venv/
+
+# Ignorar arquivos de configuração sensíveis
+.env
+
+# Ignorar a pasta do banco de dados
+fiep_db/
