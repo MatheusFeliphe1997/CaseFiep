@@ -53,4 +53,5 @@
     Isso abrirá uma nova janela em seu navegador com a interface do chatbot, onde você poderá interagir e testar suas funcionalidades.
 #                       Conclusão
     Agora você está pronto para utilizar o chatbot! Certifique-se de que todas as dependências estão instaladas e que a chave da API está correta no arquivo .env. Se encontrar algum problema, verifique as mensagens de erro no terminal para solucionar.
-    Se precisar de mais informações ou ajuda adicional, sinta-se à vontade para entrar em contato! WhatsApp (41)99880-7662 MATHEUS FELIPHE
+    Se precisar de mais informações ou ajuda adicional, sinta-se à vontade para entrar em contato! 
+!    WhatsApp (41)99880-7662 MATHEUS FELIPHE
